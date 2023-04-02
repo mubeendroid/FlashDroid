@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlashDroid</string>
+    <string name="flashlight_description">Turn on or off flashlight</string>
+    <string name="instruction_text">Click on the flashlight image to turn on or off flashlight</string>
+    <string name="flash">Flash</string>
+    <string name="droid">Droid</string>
+</resources>
