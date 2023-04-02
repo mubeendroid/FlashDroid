@@ -1,4 +1,6 @@
 # FlashDroid
  A simple flashlight app for android
- ![FlashDroid](screenshot/flashdroid.jpg)
- 
+
+<div align="center">
+   <img src="screenshot/flashdroid.jpg" width="300" />
+ </div>
